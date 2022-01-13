@@ -1,0 +1,5 @@
+#number1, #number2:hover{
+	color: tomato;
+	font-weight: bold;
+    max-width: 30%;
+}
